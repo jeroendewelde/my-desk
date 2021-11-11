@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/pgmgent-2122-im.github.io/diorama-pgm-jeroendewelde/static/css/main.d5880afd.chunk.css",
+    "main.js": "/pgmgent-2122-im.github.io/diorama-pgm-jeroendewelde/static/js/main.9d6c6c78.chunk.js",
+    "main.js.map": "/pgmgent-2122-im.github.io/diorama-pgm-jeroendewelde/static/js/main.9d6c6c78.chunk.js.map",
+    "runtime-main.js": "/pgmgent-2122-im.github.io/diorama-pgm-jeroendewelde/static/js/runtime-main.591824e0.js",
+    "runtime-main.js.map": "/pgmgent-2122-im.github.io/diorama-pgm-jeroendewelde/static/js/runtime-main.591824e0.js.map",
+    "static/js/2.03b3568d.chunk.js": "/pgmgent-2122-im.github.io/diorama-pgm-jeroendewelde/static/js/2.03b3568d.chunk.js",
+    "static/js/2.03b3568d.chunk.js.map": "/pgmgent-2122-im.github.io/diorama-pgm-jeroendewelde/static/js/2.03b3568d.chunk.js.map",
+    "static/js/3.9dacb597.chunk.js": "/pgmgent-2122-im.github.io/diorama-pgm-jeroendewelde/static/js/3.9dacb597.chunk.js",
+    "static/js/3.9dacb597.chunk.js.map": "/pgmgent-2122-im.github.io/diorama-pgm-jeroendewelde/static/js/3.9dacb597.chunk.js.map",
+    "index.html": "/pgmgent-2122-im.github.io/diorama-pgm-jeroendewelde/index.html",
+    "static/css/main.d5880afd.chunk.css.map": "/pgmgent-2122-im.github.io/diorama-pgm-jeroendewelde/static/css/main.d5880afd.chunk.css.map",
+    "static/js/2.03b3568d.chunk.js.LICENSE.txt": "/pgmgent-2122-im.github.io/diorama-pgm-jeroendewelde/static/js/2.03b3568d.chunk.js.LICENSE.txt",
+    "static/media/suzanne.2b4b9514.glb": "/pgmgent-2122-im.github.io/diorama-pgm-jeroendewelde/static/media/suzanne.2b4b9514.glb"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.591824e0.js",
+    "static/js/2.03b3568d.chunk.js",
+    "static/css/main.d5880afd.chunk.css",
+    "static/js/main.9d6c6c78.chunk.js"
+  ]
+}
