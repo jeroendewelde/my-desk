@@ -50,7 +50,7 @@ const LightingThreePointGui = () => {
         castShadow={true}
         color={fillLightColor}
         intensity={fillLightIntensity}
-        position={[-4, 2, 4]}
+        position={[-5, 3, 4]}
         ref={fillLightRef}
       />
       <spotLight
@@ -58,7 +58,7 @@ const LightingThreePointGui = () => {
         castShadow={true}
         color={keyLightColor}
         intensity={keyLightIntensity}
-        position={[4, 2, 4]}
+        position={[8, 2, 4]}
         ref={keyLightRef}
       />
     </>

@@ -1,7 +1,7 @@
 // https://github.com/emmelleppi/matcaps
 const MatCap = {
   id: {
-    GREEN: "54C104_BBFA0F_97EF04_7AE104",
+    METALIC: "090909_9C9C9C_555555_7C7C7C",
   },
   size: {
     XS: 64,
